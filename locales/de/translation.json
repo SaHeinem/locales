@@ -1,0 +1,112 @@
+{
+    "comp_name": "Firmierung",
+    "street": "Straße",
+    "house_number": "Hausnummer",
+    "zusatz": "Zusatz",
+    "plz": "PLZ",
+    "ort": "Ort",
+    "land": "Land",
+    "homepage": "Homepage",
+    "telefon": "Telefon",
+    "fax": "Fax",
+    "email": "E-Mail",
+    "branche": "Branche",
+    "comp_size": "Firmengröße",
+    "steuernummer": "Steuernummer",
+    "ustid": "USt-IdNr.",
+    "registergericht": "Registergericht",
+    "registernummer": "Registernummer",
+    "loading": "Laden...",
+    "address_paste_notes": "\nANMERKUNGEN:\n- erste 3 Zeilen wie oben beschrieben ausfüllen\n- bei Auslandsadressen 4. Zeile immer angeben\n- Nummern prüfen! z.B. Steuernummer als Tel. gelesen?\n- prüfen Sie das Ergebnis nach der Eingabe!\n",
+    "mandatory_field": "* Pflichtfelder",
+    "active": "aktiv",
+    "deaktive": "deaktiviert",
+    "since_date": "seit {{date}}",
+    "created_at": "erstellt am",
+    "account_manager": "Account Manager",
+    "customer_pays_with": "Kunde zahlt per",
+    "contacts": "Kontakte",
+    "locations": "Standorte",
+    "contracts": "Verträge",
+    "further": "weiteres",
+    "technical_contact": "Technischer Ansprechpartner",
+    "local_contact": "Lokaler Ansprechpartner",
+    "employees": "Mitarbeiter",
+    "navigation": {
+        "back": "Zurück",
+        "next": "Weiter",
+        "save": "Speichern",
+        "cancel": "Abbrechen",
+        "edit": "Bearbeiten",
+        "delete": "Löschen",
+        "add": "Hinzufügen",
+        "create": "Erstellen",
+        "submit": "Absenden",
+        "back_to_start": "Zurück zum Anfang",
+        "search": "Suche",
+        "save_anyway": "Dennoch speichern",
+        "apply": "Anwenden",
+        "create_new_opportunity": "Neue Opportunity anlegen"
+    },
+    "person":{
+        "salutation": "Anrede",
+        "male" : "Herr",
+        "female" : "Frau",
+        "title" : "Titel",
+        "firstname" : "Vorname",
+        "lastname" : "Nachname",
+        "position" : "Position",
+        "department" : "Abteilung",
+        "fonenumber" : "Telefonnummer",
+        "mobilenumber" : "Mobilnummer"
+    },
+    "customer": {
+        "customer": "Kunde",
+        "create": "Neuen Kunden anlegen",
+        "edit": "Kunde bearbeiten",
+        "delete": "Kunde löschen",
+        "search": "Kunde suchen",
+        "edit_error": "Dieser Kunde kann nicht editiert werden, da er inaktiv ist!",
+        "no_customer_with_such_employee_count": "Es sind noch keine Kunden mit der Mitarbeiterzahl {{employee_count}} angelegt!",
+        "no_customer_with_such_industry": "Es sind noch keine Kunden in der Branche {{industry}} angelegt!",
+        "no_empl_count_with_x": "Es gibt keine Mitarbeiterzahl mit {{employee_count}} Mitarbeitern!",
+        "no_industry_with_slug": "Es gibt keine Branche mit dem Slug {{branche_slug}}!",
+        "complete_info": "Komplette Kundeninformationen / Impressum",
+        "number": "Kundennummer"
+    },
+    "contract":{
+        "complete_signature": "Komplette Kontakt Signatur"
+    },
+    "contact":{
+        "create": "neuen Kontakt anlegen"
+    },
+    "error": {
+        "error": "Fehler!",
+        "error_occured": "Ein Fehler ist aufgetreten!",
+        "error_occured_with_message": "Ein Fehler ist aufgetreten! {{message}}",
+        "404": "Fehler 404 - Die Seite konnte nicht gefunden werden!",
+        "user_disabled": "Dieser Kunde ist deaktiviert!",
+        "address_incorect_or_uncheckable": "Diese Adresse ist inkorrekt oder kann derzeit nicht geprüft werden",
+        "no_site_created_yet": "noch keine Site angelegt!",
+        "no_contact_created_yet": "noch kein Kontakt angelegt!",
+        "contracts_not_visible_yet": "Verträge können noch nicht angezeigt werden!",
+        "offers_not_visible_yet": "Angebote können noch nicht angezeigt werden!"
+    },
+    "message": {
+        "address_add_to_db": "Adresse wurde in Datenbank angelegt",
+        "address_from_db": "Adresse wurde aus Datenbank übernommen"
+    },
+    "location": {
+        "add": "Neuen Standort hinzufügen",
+        "update": "Standort aktualisieren",
+        "create": "Neuen Standort erstellen",
+        "flor": "Etage",
+        "room": "Raum"
+    },
+    "opportunity": {
+        "name_of": "Name der Opportunity",
+        "created": "Opportunity erstellt!",
+        "name": "Opportunity Name",
+        "phase": "Opportunity Phase"
+    }
+}
